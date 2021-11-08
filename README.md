@@ -16,3 +16,5 @@ Requirements:
 Then run the python file mybrowser.py
 
 If you don't have python installed then you can run the exe file directly.
+
+Google Drive link for exe file: https://drive.google.com/file/d/1HZbvgSK7aD6uhFY0rziib1OmdIVkeOSR/view?usp=sharing
