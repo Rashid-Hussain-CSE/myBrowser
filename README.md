@@ -1,5 +1,7 @@
 This is a browser created using python programming language.
 
+You can have a glance of how it looks through the images present in repo.
+
 This browser has features like:
   You can search anything just like using google chrome.
   Reaload button which reloads your current page.
